@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "name": "Highkey 21st",
+    "tagline": "Management for the modern era."
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/highkey21st"
+  },
+  "links": [
+    {
+      "title": "Official Website",
+      "url": "https://highkey21st.com"
+    },
+    {
+      "title": "Contact Us",
+      "url": "mailto:info@highkey21st.com"
+    },
+    {
+      "title": "Our GitHub Projects",
+      "url": "https://github.com/highkey21st"
+    }
+  ],
+  "blog": {
+    "rssFeed": "",
+    "wordCount": 75
+  },
+  "contact": {
+    "buttonText": "",
+    "url": ""
+  },
+  "theme": "minimal",
+  "gravatarHovercard": false
+}
